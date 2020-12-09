@@ -5,7 +5,7 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/cbd(1).pdf" style="text-decoration:none;">MapReduce: Simplied Data Processing on Large Clusters</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/cbd(1).pdf" style="text-decoration:none;">MapReduce: Simplified Data Processing on Large Clusters</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Classic-Big-Data-Papers/blob/master/cbd(2).pdf" style="text-decoration:none;">The Google File System</a></li>
 
